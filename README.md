@@ -1,6 +1,6 @@
 # PreOpNet
 
-This repository exists to understand the performance of PreOpNet on other data sources.
+PreOpNet is the first purpose built deep learning architecture for predicting perioperative outcomes, and its predictive performance was superior to previously published neural architectures for interpreting ECGs despite requiring less computational processing.
 
 ## Preprocessing
 
