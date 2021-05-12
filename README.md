@@ -22,4 +22,4 @@ To run this notebook, fill out these variables:
 1. Val_root: The location of your input dataset (this should match out_dataset from the first notebook)
 2. Val_csv: The csv of your input dataset (this should match in_csv from the first notebook)
 3. target: If you are testing on a column in your input dataset labeled something other than 'Mortality', you must provide a target to val_dataloader
-4. checkpoint: Provide the path to the model checkpoint (PreOpNet Mortality best_roc_model.pt, PreOpNet MACE best_roc_model.pt.pt)
+4. checkpoint: Provide the path to the model checkpoint (PreOpNet Mortality best_roc_model.pt, PreOpNet MACE best_roc_model.pt)
