@@ -2,7 +2,7 @@
 
 PreOpNet is the first purpose built deep learning architecture for predicting perioperative outcomes, and its predictive performance was superior to previously published neural architectures for interpreting ECGs despite requiring less computational processing.
 
-![](Figure1.png)
+![](Figure1.PNG)
 
 ## Preprocessing
 
