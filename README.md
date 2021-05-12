@@ -2,6 +2,8 @@
 
 PreOpNet is the first purpose built deep learning architecture for predicting perioperative outcomes, and its predictive performance was superior to previously published neural architectures for interpreting ECGs despite requiring less computational processing.
 
+![](figure1.png)
+
 ## Preprocessing
 
 The first notebook, Process Data.ipynb will convert your xml files to normalized numpy arrays. To run the notebook, edit the args dictionary with your relivent information
